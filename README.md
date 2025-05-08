@@ -2,6 +2,30 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
+Wechat Application done with the interactive cometchat components.
+
+snippets:
+
+
+
+
+![Screenshot (70)](https://github.com/user-attachments/assets/515bb4b5-82bd-4133-af4e-3934bc2be347)
+
+
+
+![Screenshot (71)](https://github.com/user-attachments/assets/6631b81b-4be5-4fd2-a3a1-cdbc8f2406c9)
+
+
+
+![Screenshot (72)](https://github.com/user-attachments/assets/bb6daa28-4ff0-419f-b2a9-b7608ca561e7)
+
+
+
+
+
+
+
+
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
