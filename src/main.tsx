@@ -9,9 +9,9 @@ import { setupLocalization } from "./CometChat/utils/utils";
 import { BuilderSettingsProvider } from "./CometChat/context/BuilderSettingsContext";
 
 export const COMETCHAT_CONSTANTS = {
-  APP_ID: "2750881842cd02c4", // Replace with your App ID
+  APP_ID: "275099406ff45b28", // Replace with your App ID
   REGION: "in", // Replace with your App Region
-  AUTH_KEY: "4080b539e3da7df6250a749242b84db16fe2b842", // Replace with your Auth Key or leave blank if you are authenticating using Auth Token
+  AUTH_KEY: "ae256e8caa16e02e7db41b8b3e44229d0fa61ba9", // Replace with your Auth Key or leave blank if you are authenticating using Auth Token
 };
 
 const uiKitSettings = new UIKitSettingsBuilder()
